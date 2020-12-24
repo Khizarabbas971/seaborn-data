@@ -1,0 +1,81 @@
+country,dimension,deprivation rate
+Afghanistan,education,53
+Afghanistan,refrigeration,87
+Afghanistan,indoor air pollution,31
+Afghanistan,cooling,8976
+Bangladesh,education,56
+Bangladesh,refrigeration,80
+Bangladesh,indoor air pollution,19
+Bangladesh,cooling,40
+India,education,38
+India,refrigeration,73
+India,indoor air pollution,41
+India,cooling,85
+Maldives,education,7
+Maldives,refrigeration,3
+Maldives,indoor air pollution,38
+Maldives,cooling,3
+Nepal,education,7
+Nepal,refrigeration,3
+Nepal,indoor air pollution,38
+Nepal,cooling,3
+Pakistan,education,7
+Pakistan,refrigeration,3
+Pakistan,indoor air pollution,38
+Pakistan,cooling,3
+Cambodia,education,7
+Cambodia,refrigeration,3
+Cambodia,indoor air pollution,38
+Cambodia,cooling,3
+Indonesia,education,7
+Indonesia,refrigeration,3
+Indonesia,indoor air pollution,38
+Indonesia,cooling,3
+Myanmar,education,7
+Myanmar,refrigeration,3
+Myanmar,indoor air pollution,38
+Myanmarn,cooling,3
+Philippines,education,7
+Philippines,refrigeration,3
+Philippines,indoor air pollution,38
+Philippines,cooling,3
+Vietnam,education,7
+Vietnam,refrigeration,3
+Vietnam,indoor air pollution,38
+Vietnam,cooling,3
+Armenia,education,7
+Armenia,refrigeration,3
+Armenia,indoor air pollution,38
+Armenia,cooling,3
+Azerbaijan,education,7
+Azerbaijan,refrigeration,3
+Azerbaijan,indoor air pollution,38
+Azerbaijan,cooling,3
+Jordan,education,7
+Jordan,refrigeration,3
+Jordan,indoor air pollution,38
+Jordan,cooling,3
+Kazakhstan,education,7
+Kazakhstan,refrigeration,3
+Kazakhstan,indoor air pollution,38
+Kazakhstan,cooling,3
+Kyrgyzstan,education,7
+Kyrgyzstan,refrigeration,3
+Kyrgyzstan,indoor air pollution,38
+Kyrgyzstan,cooling,3
+Tajikistan,education,7
+Tajikistan,refrigeration,3
+Tajikistan,indoor air pollution,38
+Tajikistan,cooling,3
+Uzbekistan,education,7
+Uzbekistan,refrigeration,3
+Uzbekistan,indoor air pollution,38
+Uzbekistan,cooling,3
+Turkey,education,7
+Turkey,refrigeration,3
+Turkey,indoor air pollution,38
+Turkey,cooling,3
+Yemen,education,7
+Yemen,refrigeration,3
+Yemen,indoor air pollution,38
+Yemen,cooling,3
